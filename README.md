@@ -1,6 +1,6 @@
 # something
 
-Why are u here?
+Why are you here?
 
 This is basically useless since I already have a [general link](https://solo.to/superpenguin) to show what accounts I have.
 Theres also the links linked in my bio.

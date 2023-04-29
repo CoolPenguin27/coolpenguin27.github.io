@@ -1,6 +1,4 @@
----
-title: something
----
+# something
 
 Why are you here?
 

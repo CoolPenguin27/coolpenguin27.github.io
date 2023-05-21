@@ -1,13 +1,3 @@
 title: CoolPenguin27's Website
 description: Its his website.
 url: "https://coolpenguin27.github.io/"
-remote_theme: daviddarnes/garth
-
-collections:
-  posts:
-    title: something 
-    output: true
-    description: "idk"
-    
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one

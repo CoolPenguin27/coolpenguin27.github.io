@@ -4,3 +4,11 @@ show_sidebar: false
 
 description: Its his website.
 url: "https://coolpenguin27.github.io/"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      hero_image: favicon.png

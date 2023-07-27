@@ -1,5 +1,6 @@
 title: CoolPenguin27's Website
 remote_theme: chrisrhymes/bulma-clean-theme
+show_sidebar: false
 
 description: Its his website.
 url: "https://coolpenguin27.github.io/"

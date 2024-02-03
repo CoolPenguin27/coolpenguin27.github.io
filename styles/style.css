@@ -1,0 +1,78 @@
+  .mainText {
+    color: rgb(255, 250, 250);  
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif ;
+    padding-top: 100px  ;
+  }
+
+  .mainBody {
+    height: 500px;
+    width: 1000px;
+    margin: 50px auto auto auto;
+    border: 5px solid black;
+    backdrop-filter: blur(50px);
+  }
+
+  body  {
+    background-color: hwb(0 14% 85%);
+    background-image: url(../images/background.png);  
+    background-repeat: no-repeat;
+    background-clip: inherit;
+    background-size: cover;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .pageTitle {
+    font-size: 60px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif ;
+  }
+
+  .notFoundText {
+    color: rgb(255, 250, 250);  
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif ;
+    padding-top: 100px  ;
+  }
+
+  .socialLinks {
+    color: rgb(255, 250, 250);  
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif ;
+    padding-top: 100px  ; 
+  }
+
+  .socialBody {
+    height: 300px;
+    width: 1000px;
+    margin: 50px auto auto auto;
+    border: 5px solid black;
+    backdrop-filter: blur(50px);
+  }
+
+  .socialTitle {
+    font-size: 60px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif ;
+  }
+
+  .socialText {
+    color: rgb(255, 250, 250);  
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif ;
+  }
+
+  .welcomeImage {
+    padding-top: 100px  ; 
+
+  }
